@@ -1,0 +1,6 @@
+---
+mongo_uri: "username:<password>@cluster0.15obx6z.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+aws_access_key_id: ""
+aws_secret_access_key: ""
+s3_bucket_name: "bucketwaad"
+
